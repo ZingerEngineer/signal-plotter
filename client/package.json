@@ -1,5 +1,5 @@
 {
-  "name": "signal-finder",
+  "name": "signal-plotter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -33,3 +33,4 @@
     "vite": "^4.4.5"
   }
 }
+
